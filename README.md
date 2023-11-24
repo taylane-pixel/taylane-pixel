@@ -1,13 +1,10 @@
 ### Olá! Eu sou Taylane Maia 👋
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
-
 <p align="center">Buscando desenvolver minhas habilidades no Front-end cada dias mais por meios de estudos sobre HTML, CSS E JavaScript e suas bibliotecas por meio do VScode e trabalhando também o back-end utilizando o Visual estudio onde busco praticar e aprimorar meus conhecimentos em ASP.NET e C#. </br> Como desenvolvedora iciante gosto de apenas me comparar comigo mesmo, observando meu eu do passado e meu eu do presente, pois, só asssim posso ver como evoluir com o tempo e me tornar uma boa profissinal na minha carreira.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=taylane-pixel&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-taylane-pixel.vercel.app/api/top-langs/?username=taylane-pixel&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
@@ -33,16 +30,6 @@
 ![ASP.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-
-
-#### Databases:
-
-![SQLServe](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-
-#### Ferramentas utilizadas:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![VisualStudio](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 
 
 &nbsp;
