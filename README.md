@@ -1,6 +1,6 @@
 ### Olá! Eu sou Taylane Maia 👋
 
-<p align="center">Buscando desenvolver minhas habilidades no Front-end cada dias mais por meios de estudos sobre HTML, CSS E JavaScript e suas bibliotecas por meio do VScode e trabalhando também o back-end utilizando o Visual estudio onde busco praticar e aprimorar meus conhecimentos em ASP.NET e C#. </br> Como desenvolvedora iciante gosto de apenas me comparar comigo mesmo, observando meu eu do passado e meu eu do presente, pois, só asssim posso ver como evoluir com o tempo e me tornar uma boa profissinal na minha carreira.</p>&nbsp;
+<p align="center">Buscando desenvolver minhas habilidades no Front-end cada dias mais por meios de estudos sobre HTML, CSS E JavaScript e suas bibliotecas por meio do VScode e trabalhando também o back-end utilizando o Visual estudio onde busco praticar e aprimorar meus conhecimentos em ASP.NET e C#. </br> Como desenvolvedora iniciante gosto de apenas me comparar comigo mesmo, observando meu eu do passado e meu eu do presente, pois, só asssim posso ver como evoluir com o tempo e me tornar uma boa profissinal na minha carreira.</p>&nbsp;
 
 
  
